@@ -16,4 +16,6 @@ docs = loader.load()
 print(len(docs))
 
 ## splitting
+splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+splits = splitter.split_documents(docs)
 ## embeggings and vector stors
