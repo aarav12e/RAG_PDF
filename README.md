@@ -128,8 +128,8 @@ Upload **any PDF** — a research paper, legal document, book, notes, manual —
   │   │  📄  Select Your PDF File                      │   │
   │   │  [ Browse files... ]   uploaded_doc.pdf ✅     │   │
   │   └────────────────────────────────────────────────┘   │
-  │   ⏳ Processing...                                      │
-  │   ✅ Document Processed Successfully                    │
+  │   ⏳ Processing...                                     │
+  │   ✅ Document Processed Successfully                   │
   │                                                        │
   │   ┌────────────────────────────────────────────────┐   │
   │   │ 👤 You                                         │   │
@@ -137,7 +137,7 @@ Upload **any PDF** — a research paper, legal document, book, notes, manual —
   │   └────────────────────────────────────────────────┘   │
   │                                                        │
   │   ┌────────────────────────────────────────────────┐   │
-  │   │ 🤖 AI                                          │   │
+  │   │ 🤖 AI                                         │   │
   │   │ Based on the document, the main conclusions    │   │
   │   │ are: 1) The proposed method achieves 94.2%     │   │
   │   │ accuracy on benchmark... 2) The model shows    │   │
